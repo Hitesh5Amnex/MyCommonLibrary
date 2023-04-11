@@ -13,7 +13,6 @@ public class HiteshCommonMethod {
                 total=total+addNumbers.get(i);
 
             }
-            return total;
         }
         return total;
     }
